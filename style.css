@@ -1,0 +1,28 @@
+* {
+    padding: 0; 
+    margin: 0;
+    display: grid;
+    justify-content: center;
+   
+}
+
+.card-wrapper {
+    
+   
+}
+
+.card-wrapper {
+
+    display: grid;
+    width: 500px;
+    border: 1px solid #ccc;
+    -webkit-box-shadow: 5px 5px 15px -5px #000000; 
+    box-shadow: 5px 5px 15px -5px #000000;
+    padding-bottom: 15px;
+}
+
+.thumbnail {
+    width: 100%;
+    height: 270px;
+    padding-bottom: 15px;
+}
